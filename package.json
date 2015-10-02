@@ -2,7 +2,7 @@
   "name": "hubot-trivia",
   "version": "0.3.0",
   "description": "A trivia script for Hubot",
-  "main": "./src/hubot-trivia",
+  "main": "index.coffee",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
